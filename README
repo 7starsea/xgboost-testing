@@ -1,0 +1,5 @@
+
+
+
+please set up proper xgboost location in CMakelist file
+and then run ./compile.sh to build and if successfully, then run python test_cpp.py
